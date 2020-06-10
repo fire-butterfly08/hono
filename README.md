@@ -74,12 +74,6 @@ For more details, see [docs/CONTRIBUTING.md](docs/CONTRIBUTING.md).
 
 Thanks to [all contributors](https://github.com/honojs/hono/graphs/contributors)!
 
-## Authors
-
-Yusuke Wada <https://github.com/yusukebe>
-
-_RegExpRouter_, _SmartRouter_, _LinearRouter_, and _PatternRouter_ are created by Taku Amano <https://github.com/usualoma>
-
 ## License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
